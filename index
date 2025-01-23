@@ -1,11 +1,34 @@
-!DOCTYPE  <html>
-<html>
+!DOCTYPE html>
+<html lang="en">
 <head>
-    <title> UMUZI-CODING_CHALLENGE</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lushaba Secondary School</title>
+    <link rel="stylesheet" href="lushaba.css">
 </head>
 <body>
-    <p> The umuzi codding challenge for girls. A program designed for girls between the ages of 15 to 25 called gaaming for girls.</p>
-    <p>This is a fantastic opportunity for those who want to do coding and everthing programing, Its an opportunity to learn and get skills for free which is great</p>
+    <header>
+        <h1>LUSHABA SECONDARY SCHOOL</h1>
+        <nav>
+            <ul>
+                <li><a href="lush.html">Home</a></li>
+                <li><a href="applications.html">Applications</a></li>
+                <li><a href="login.html">Staff Login</a></li>
+                <li><a href="groupchat.html">Group Chat</a></li>
+                <li><a href="visitors.html">Visitor</a></li>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="welcome">
+            <h2>Welcome to Lushaba Secondary School</h2>
+            <p>Funda njalo!!!.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy;Lushaba Secondary School. Funda Njalo.</p>
+    </footer>
 </body>
 </html>
 
